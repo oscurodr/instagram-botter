@@ -16,7 +16,7 @@ os.color("a")
 
 def __main__:
  account_name=input("Account name ? ")
-   if account_name=="":
+   if account_name=="oscurodr_":
      print('please input a real name')
    else if req.on(`www.instagram.com/%account_name%`)==Flase:
      print('I didnt found your instagram account')
